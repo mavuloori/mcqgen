@@ -1,6 +1,7 @@
-install
-	openai
-	langchain
-	streamlit (create api)
-	python-dotenv
-	PyPDF2
+openai
+langchain
+python-dotenv
+PyPDF2
+streamlit
+
+-e .

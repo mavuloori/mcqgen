@@ -1,0 +1,6 @@
+install
+	openai
+	langchain
+	streamlit (create api)
+	python-dotenv
+	PyPDF2
